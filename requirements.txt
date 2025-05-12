@@ -2,3 +2,4 @@ bs4
 streamlit
 dotenv 
 reportlab
+validators
